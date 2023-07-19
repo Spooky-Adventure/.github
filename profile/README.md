@@ -17,10 +17,14 @@ These will be added when Spooky Adventure is released, so stay tuned~
 ## [Spooky Adventure Source Code][ghSRC]
 This repository contains the source code used to compile and run Spooky Adventure.
 It is based off of the [NewerSMBW source code][newerSRC], however it is not a fork
-of the repository because forks cannot be made private, and if I ever decide i want
+of the repository because forks cannot be made private, and if I ever decide I want
 to make the source code private until release, a fork wouldn't let me do it.
 
 Be sure to check in there to find out more about it!
+
+## [Spooky Adventure Website][website]
+Our website, currently a work-in-progress. There's really not much to say
+about it right now, it's not got much to it.
 
 # Related Links
 - [Twitter Account][twitter] (Not used very much)
@@ -129,5 +133,5 @@ I do not have any ownership (full or partial), of said characters.
 [setupDol]: https://horizon.miraheze.org/wiki/Dolphin_Emulator#Riivolution_Patches
 [setupWii]: https://horizon.miraheze.org/wiki/Installing_and_Playing_Mods
 [twitter]: https://twitter.com/SMSpookyAdv
-[website]: https://mandyiguess.github.io/spooky
+[website]: https://spooky-adventure.github.io/
 [yt]: https://www.youtube.com/@supermariospookyadventure
