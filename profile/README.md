@@ -22,7 +22,7 @@ to make the source code private until release, a fork wouldn't let me do it.
 
 Be sure to check in there to find out more about it!
 
-## [Spooky Adventure Website][website]
+## [Spooky Adventure Website][ghWebsite]
 Our website, currently a work-in-progress. There's really not much to say
 about it right now, it's not got much to it.
 
@@ -128,6 +128,7 @@ I do not have any ownership (full or partial), of said characters.
 [discord]: https://discord.gg/fW5D3b6WQ8
 [ghRes]: https://github.com/Spooky-Adventure/Super-Mario-Spooky-Adventure
 [ghSRC]: https://github.com/Spooky-Adventure/Spooky-Adventure-Source-Code
+[ghWebsite]: https://github.com/Spooky-Adventure/spooky-adventure.github.io
 [newer]: https://newerteam.com/wii
 [newerSRC]: https://github.com/Newer-Team/NewerSMBW
 [setupDol]: https://horizon.miraheze.org/wiki/Dolphin_Emulator#Riivolution_Patches
